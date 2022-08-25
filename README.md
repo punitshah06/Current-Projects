@@ -9,3 +9,4 @@ What's going on ?
 
 Supply Chain Optimization Algorithms
 - [Algorithms for shortest path](https://algorithmyou.com/2020/02/15/artificial-intelligence/how-google-maps-work-fast-route-planning/)
+- [Travelling Salesman problem](https://www.youtube.com/watch?v=XaXsJJh-Q5Y&t=2s)
