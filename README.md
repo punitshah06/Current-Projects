@@ -6,6 +6,7 @@ What's going on ?
 - [Python Web Development](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Da Vinci Resolve for VFX](https://www.blackmagicdesign.com/products/davinciresolve/training)
 - [Supply Chain Analytics](https://www.youtube.com/watch?v=PmR2SKeY9Ms&list=PLGit8yny_3ANzZMsJJjeuxMg-S0f0hGcn&index=1)
+- [Workfloe design for maximum efficiency](https://www.smartsheet.com/content/workflow-design)
 
 Supply Chain Optimization Algorithms
 - [Algorithms for shortest path](https://algorithmyou.com/2020/02/15/artificial-intelligence/how-google-maps-work-fast-route-planning/)
